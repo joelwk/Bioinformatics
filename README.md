@@ -1,2 +1,3 @@
-# DataPre-Processing
-Pre-processing of raw data into structured and organized datasets
+# Bioinformatics
+
+This will be dedicated to bioinformatics projects that I will continue to add to
